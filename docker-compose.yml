@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  react-app:
+    build: .
+    ports:
+      - "2932:2932"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true
