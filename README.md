@@ -2,6 +2,8 @@
 
 A modern, responsive food ordering web application built with React and Vite. Features a sleek design with comprehensive menu browsing, cart functionality, and order management.
 
+> **⚠️ Local Development Only**: This application is designed to run locally on your machine. No live deployment is available.
+
 
 ## 🚀 Features
 
