@@ -2,9 +2,6 @@
 
 A modern, responsive food ordering web application built with React and Vite. Features a sleek design with comprehensive menu browsing, cart functionality, and order management.
 
-## ✨ Live Demo
-
-**🌐 Visit the live site:** [https://rachait.github.io/tomato-food-app](https://rachait.github.io/tomato-food-app)
 
 ## 🚀 Features
 
