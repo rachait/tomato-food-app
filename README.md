@@ -16,7 +16,7 @@ A modern, responsive food ordering web application built with React and Vite. Fe
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18 + Vite 5
-- **Routing**: React Router DOM 6 (HashRouter for GitHub Pages)
+- **Routing**: React Router DOM 6
 - **Styling**: Modern CSS with custom properties
 - **Font**: Inter font family
 - **Build Tool**: Vite with React plugin
@@ -92,12 +92,11 @@ tomato-food-app/
 
 ## 🌐 Deployment
 
-### GitHub Pages (Current)
-- **URL**: https://rachait.github.io/tomato-food-app
-- **Branch**: `gh-pages` (auto-deployed via GitHub Actions)
-- **Router**: HashRouter for static hosting compatibility
+### Local Development
+- **URL**: http://localhost:5173
+- **Command**: `npm run dev`
 
-### Other Deployment Options
+### Deployment Options
 
 #### Docker
 ```bash
@@ -129,13 +128,12 @@ kubectl apply -f deployment.yaml
 - ✅ Order management
 - ✅ Mobile-optimized layout
 - ✅ Smooth animations and transitions
-- ✅ GitHub Pages deployment
+- ✅ Local development setup
 
 ### Recent Updates
-- **Fixed white screen issue** on GitHub Pages
-- **Implemented HashRouter** for static hosting
-- **Added GitHub Actions** for automatic deployment
 - **Enhanced responsive design** for all devices
+- **Optimized for local development**
+- **Improved user experience**
 
 ## 🤝 Contributing
 
